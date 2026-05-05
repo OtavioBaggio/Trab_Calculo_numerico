@@ -1,1 +1,0 @@
-from .validacoes import matriz_singular, diagonal_dominante
